@@ -1,0 +1,1 @@
+# cryply-miner
